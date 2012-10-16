@@ -1,0 +1,146 @@
+
+
+h1{	
+	text:bold;
+	color:grey;
+	text-align:left;
+	
+}
+
+
+h5{
+	display:none;
+}
+
+h4{
+	display:none;
+}
+
+.info_data8{
+
+	display:none;
+}
+
+.info_data21{
+
+	display:none;
+}
+
+.info_data22{
+
+	display:none;
+}
+.info41{
+
+	display:none;
+}
+.info42{
+
+	display:none;
+}
+
+.info_data10{
+
+	display:none;
+}
+
+.info_data11{
+
+	display:none;
+	
+	
+}
+
+.marios { 
+	display:none; 
+
+}
+
+.info1{
+	color:red;
+	
+}
+
+.info6{
+	
+	position:relative;
+	left:20px;	
+	top:10px;
+	color:black;
+	
+}
+
+.info_data{
+	
+	border-line:left;
+	position:relative;
+	left:250px;	
+	top:-70px;
+	
+	color:green;
+	
+}
+
+.info_data1{
+	
+	position:relative;
+	left:250px;	
+	top:-150px;
+	color:green;
+	
+}
+
+.info_data2{
+
+	position:relative;
+	left:250px;	
+	top:-46px;
+	color:green;
+	
+}
+
+.info_data3{
+
+	position:relative;
+	left:500px;	
+	top:-101px;
+	color:green;
+	
+}
+
+.info_data13{
+
+	position:relative;
+	left:500px;	
+	top:-101px;
+	color:green;
+	
+}
+
+
+.info_data4{
+
+	position:relative;
+	left:500px;	
+	top:-101px;
+	color:green;
+	
+}
+
+.info_data5{
+
+	position:relative;
+	left:500px;	
+	top:-40px;
+	color:green;
+	
+}
+
+.info_data6{
+
+	position:relative;
+	left:500px;	
+	top:-105px;
+	color:green;
+	
+}
